@@ -1,0 +1,46 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "cpf": "28522282625",
+      "name": "Lucas Gomes",
+      "status": "regular"
+    },
+    {
+      "id": 2,
+      "cpf": "38003778964",
+      "name": "Thomas Vitor",
+      "status": "regular"
+    },
+    {
+      "id": 3,
+      "cpf": "77989962063",
+      "name": "Guilherme Liborio",
+      "status": "regular"
+    },
+    {
+      "id": 4,
+      "cpf": "53945966973",
+      "name": "Urias Neto",
+      "status": "regular"
+    },
+    {
+      "id": 5,
+      "cpf": "46666221281",
+      "name": "Caleb José",
+      "status": "regular"
+    },
+    {
+      "id": 6,
+      "cpf": "77122344690",
+      "name": "Lívia María",
+      "status": "regular"
+    },
+    {
+      "id": 7,
+      "cpf": "02356413243",
+      "name": "Davi Pablito",
+      "status": "regular"
+    }
+  ]
+}
